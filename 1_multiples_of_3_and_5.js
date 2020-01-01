@@ -15,7 +15,7 @@ while (true) {
 
   if (i >= 1000) {
     console.log(acc)
-    return acc
+    break
   }
 
   i++
